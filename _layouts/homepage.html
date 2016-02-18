@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  {% include mbl_head.html %}
+
+  <body>
+
+    {% include mbl_header.html %}
+
+
+    <div class="container">
+
+      <div class="row">
+        <div class="col-sm-10 col-sm-offset-1">
+          <h1>{{ page.title }}</h1>
+          <div class="pull-right mbl-rhs-block hidden-xs">
+            <div class="mbl_global_page_img">
+              <img src="./images/mbl_img1.jpg" alt="" class="img-thumbnail">
+            </div>
+            <br>
+            <div class="mbl_global_page_img">
+              <a href="http://bcryo.org.uk/" title="British Cryogenics Council Website" alt="British Cryogenics Council Website" target="_blank"><img src="./images/bcryo_logo.jpg" alt="" class="img-thumbnail"></a>
+            </div>
+          </div>
+          {{ content }}
+        
+        </div>
+      </div>
+      <div class="row visible-xs-block">
+        <div class="col-xs-12">
+          <br><br>
+          <img src="./images/mbl_page_img.jpg" alt="" class="img-thumbnail center-block">
+        </div>
+      </div>
+      <!-- End of row -->
+
+    </div>
+
+    {% include mbl_footer.html %}
+
+  </body>
+
+</html>

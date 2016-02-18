@@ -1,0 +1,242 @@
+body {
+	font-family: Calibri Light, Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+	font-size: 15px;
+}
+
+p {
+    margin: 0 0 10px;
+    line-height: 170%;
+}
+
+h1, h2, h3, h4 {
+	color: red;
+	font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+}
+
+.mbl-company-heading {
+	margin-left: -15px;
+}
+
+.mbl-company-name {
+	text-transform: uppercase;
+	font-family: Copperplate, 'Copperplate Gothic Light', fantasy; 
+	font-size: 30px;
+	color: blue;
+    font-weight: 100;
+	font-style: normal;
+	font-variant: normal;
+    letter-spacing: -2px;
+}
+
+.mbl-company-name .xl-letter {
+	font-size: 135%;
+}
+
+.mbl-logo {
+	padding-top: 5px;
+}
+
+.mbl-footer {
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 50px;
+    color: blue;
+   /* color: #767676; */
+   /* color: #337ab7; */
+    text-align: center;
+   /* border-top: 1px solid #e5e5e5; */
+   /* border-top: 1px solid #337ab7; */
+    border-top: 1px solid blue;
+}
+
+.mbl-rhs-block {
+	padding-left: 25px;
+	padding-bottom: 25px;
+}
+
+.navbar-default {
+    background-color: #fff;
+    border-color: blue;
+    border-radius: 0px;
+    border-top-style: solid !important;
+    border-left-style: none !important;
+    border-right-style: none !important;
+   /* border-bottom-style: solid !important; */
+    border-bottom-style: none !important; /* updated 16/02/2016 */
+    border-width: 1px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus {
+    color: blue;
+    background-color: #d5d5d5;
+}
+
+.nav-pills a, .nav-pills li ul a{
+	color: blue;
+	width: 100%
+}
+
+.nav-pills a:hover, .nav-pills li ul a:hover, .nav-pills>li.active>a:hover{
+	color: red !important;
+}
+
+.navbar-toggle {
+	float: left;
+	width: 10%;
+	min-width: 50px;
+}
+
+.navbar-toggle .icon-bar {
+    width: 100%;
+    min-width: 22px;
+}
+
+.mbl_global_page_img {
+	width: 210px;
+}
+
+
+/* small devices  */
+ @media (min-width:  768px)  { 
+
+ 	.mlb-nopadding {
+ 		padding: 0px;
+ 	}
+
+	.centered-pills {  
+	    text-align: center;
+	    padding: 5px 0px 0px 0px;
+	    margin-left: -15px !important;
+	}
+	.centered-pills ul.nav-pills {
+	    display: inline-block
+	}
+	.centered-pills li {
+	    display: inline
+	}
+	.centered-pills a {
+	    float: left
+	}
+	* html .centered-pills ul.nav-pills, *+html .centered-pills ul.nav-pills {
+	    display: inline
+	}
+
+	nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #eee;
+	}
+	.nav-pills>li>a {
+	    border-radius: 4px;
+	}
+	.nav>li>a {
+	    position: relative;
+	    display: block;
+	    padding: 10px 15px;
+	}
+
+}
+
+ @media (max-width:  550px)  { 
+
+	 .pull-right, .pull-left {
+ 		float: none !important;
+ 		text-align: center !important;
+ 		display: block;
+ 	}
+
+ 	.mbl-company-heading {
+ 		text-align: center !important;
+ 		float:none;
+ 	}
+ }
+
+
+ @media (max-width:  767px)  { 
+
+/*	 .pull-right, .pull-left {
+ 		float: none !important;
+ 		text-align: center !important;
+ 	}
+
+ 	.mbl-company-heading {
+ 		text-align: center !important;
+ 		float:none;
+ 	}
+*/
+	.mbl-company-name {
+		font-size: 26px;
+	}
+
+	.nav-pills>li {
+	    float: none;
+	}
+	.nav {
+    	text-align: center;
+	}
+
+	.nav-pills .open .dropdown-menu>li>a, .nav-pills .open .dropdown-menu .dropdown-header {
+    padding: 5px 15px 5px 25px;
+	}
+
+	.nav-pills .open .dropdown-menu>li>a {
+    	line-height: 20px;
+	}
+
+	.nav-pills>li>a {
+    	padding-top: 10px;
+    	padding-bottom: 10px;
+    	line-height: 20px;
+	}
+
+	.nav-pills>li>.dropdown-menu {
+	    margin-top: 0;
+	    border-top-right-radius: 0;
+	    border-top-left-radius: 0;
+	}
+
+	.nav-pills .open .dropdown-menu {
+	    position: static;
+	    float: none;
+	    width: auto;
+	    margin-top: 0;
+	    background-color: transparent;
+	    border: 0;
+	    -webkit-box-shadow: none;
+	    box-shadow: none;
+	}
+}
+
+
+/* Medium devices (desktops, 992px and up) */
+ @media (min-width:  992px)  { 
+
+	ul.nav-pills li {
+		margin-left: 12px;
+		margin-right: 12px;
+	}
+
+	ul.nav-pills li ul li {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
+
+
+/* Large devices (large desktops, 1200px and up) */
+ @media (min-width:  1200px)  { 
+
+	ul.nav-pills li {
+		margin-left: 25px;
+		margin-right: 25px;
+	}
+
+	ul.nav-pills li ul li {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+}
+
+
+
+
+
