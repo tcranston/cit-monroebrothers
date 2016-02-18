@@ -13,28 +13,18 @@
       <div class="row">
         <div class="col-sm-10 col-sm-offset-1">
           <h1>{{ page.title }}</h1>
+          
           <div class="pull-right mbl-rhs-block hidden-xs">
-            <div class="mbl_global_page_img">
-              <img src="./images/mbl_img1.jpg" alt="" class="img-thumbnail">
-            </div>
-            <br>
-            <div class="mbl_global_page_img">
-              <a href="http://bcryo.org.uk/" title="Corporate Member of the British Cryogenics Council" alt="Corporate Member of the British Cryogenics Council" target="_blank"><img src="./images/bcryo_logo.jpg" alt="" class="img-thumbnail"></a>
-            </div>
+            {% include mbl_partial_homepage_images.html %}
           </div>
+
           {{ content }}
         
         </div>
       </div>
       <div class="row visible-xs-block">
         <div class="col-xs-12">
-          <div class="mbl_global_page_img center-block">
-              <img src="./images/mbl_img1.jpg" alt="" class="img-thumbnail">
-            </div>
-            <br>
-            <div class="mbl_global_page_img center-block">
-              <a href="http://bcryo.org.uk/" title="Corporate Member of the British Cryogenics Council" alt="Corporate Member of the British Cryogenics Council" target="_blank"><img src="./images/bcryo_logo.jpg" alt="" class="img-thumbnail"></a>
-            </div>
+          {% include mbl_partial_homepage_images.html %}
         </div>
       </div>
       <!-- End of row -->
