@@ -1,11 +1,25 @@
-<div class="mbl_global_page_img center-block">
-	  <a href="#" title="" alt="" data-toggle="modal" data-target="#myModal">
-	  	<img src="{{ "/images/" | prepend: site.baseurl | append: site.website_image }}" alt="" class="img-thumbnail">
-	  </a>
+<div class="panel panel-default center-block mbl_global_page_img">
+    <div class="panel-body">
+        {% for img in site.website_images %} 
+          <a class="mbl_hp_img" href="#" title="" alt="" data-toggle="modal" data-target="{{ "#myModal-" | append: img.id }}">
+              <img src="{{ "/images/" | prepend: site.baseurl | append: img.image }}" 
+                  alt="" 
+                  class="hp-img-width text-center">
+          </a>
+        {% endfor %}
+    </div>
 </div>
 
+
+<!-- <div class="mbl_global_page_img center-block">
+    <a href="#" title="" alt="" data-toggle="modal" data-target="#myModal">
+      <img src="{{ "/images/" | prepend: site.baseurl | append: site.website_image }}" alt="" class="img-thumbnail">
+    </a>
+</div> -->
+
 <!-- Modal -->
-<div id="myModal" class="modal fade" tabindex="-1" data-width="700" >
+{% for img in site.website_images %}
+<div id="{{ "myModal-" | append: img.id }}" class="modal fade" tabindex="-1" data-width="700" >
 <!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"> -->
 <!--   <div class="modal-dialog" role="document">
     <div class="modal-content"> -->
@@ -14,8 +28,8 @@
         <h4 class="modal-title" id="myModalLabel">{{ site.title }}</h4>
       </div>
       <div class="modal-body ">
-        <img src="{{ "/images/" | prepend: site.baseurl | append: site.website_image }}" alt="" class="img-thumbnail center-block">
-        <p>{{ site.website_image_text }}</p>
+        <img src="{{ "/images/" | prepend: site.baseurl | append: img.image }}" alt="" class="img-thumbnail center-block">
+        <p>{{ img.text }}</p>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -24,3 +38,5 @@
 <!--     </div>
   </div> -->
 </div>
+{% endfor %}
+

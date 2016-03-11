@@ -96,6 +96,31 @@ h1, h2, h3, h4 {
 }
 
 
+a.mbl_hp_img {
+    border-top: #337ab7;
+    border-top-style: solid;
+    display: inline-block;
+    border-top-width: thick;
+	margin: 3px;	
+
+}
+
+a:hover.mbl_hp_img  {
+    border-top: #ff0000;
+    border-top-style: solid;
+    border-top-width: thick;
+}
+
+.mbl_hp_img img {
+	margin-top: 10px;
+}
+
+.hp-img-width {
+	width: 50px;
+	height: 65px;
+}
+
+
 /* small devices  */
  @media (min-width:  768px)  { 
 
