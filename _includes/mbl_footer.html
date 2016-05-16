@@ -11,3 +11,29 @@
 <script src="{{ "/js/bootstrap.min.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/bootstrap-modalmanager.js" | prepend: site.baseurl }}"></script>
 <script src="{{ "/js/bootstrap-modal.js" | prepend: site.baseurl }}"></script>
+
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}
+{% assign rm = url_parts | last %}
+<h1>here</h1>
+{% if rm  %}
+	{% assign base_url = page.url | replace: rm %}
+{% else %}
+	{% assign base_url = page.url %}
+{% endif %}
+{% assign base_url = '/' %}
+
+{{ page.url }}
+
+<ul>
+{% for node in site.pages %}
+  {% if node.url contains base_url %}
+    {% assign node_url_parts = node.url | split: '/' %}
+    {% assign node_url_parts_size = node_url_parts | size %}
+    {% assign filename = node_url_parts | last %}
+    {% if url_parts_size == node_url_parts_size  %}
+      <li><a href='{{node.url}}'>{{node.title}}</a></li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+</ul>
