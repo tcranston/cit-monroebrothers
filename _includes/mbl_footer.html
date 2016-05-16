@@ -26,6 +26,7 @@
 {{ page.url }}
 
 <ul>
+<li><a href='/'>Home</a></li>
 {% for node in site.pages %}
   {% if node.url contains base_url %}
     {% assign node_url_parts = node.url | split: '/' %}
