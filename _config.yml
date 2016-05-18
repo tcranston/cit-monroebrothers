@@ -6,6 +6,16 @@ keywords: low temperature, engineering, liquid nitrogen, liquid helium, consulta
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
+main_menu:
+  - Home
+  - History
+  - Services
+  - Client List
+  - Collaborations
+  - Case Studies
+  - Contact
+
+
 website_images:
   - id: "left"
     image: "mbl_hp_img1.jpg"
