@@ -127,6 +127,7 @@ a:hover.mbl_hp_img  {
 @media (min-width: 979px) {
   ul.nav li.dropdown:hover > ul.dropdown-menu {
     display: block;
+    margin-top: 0px;
   }
 }
 
