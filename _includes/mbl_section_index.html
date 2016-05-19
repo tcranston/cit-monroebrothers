@@ -1,0 +1,19 @@
+<p>
+{% assign base_url = '/'  %}
+{% assign url_parts = page.url | split: '/' %}
+{% assign url_parts_size = url_parts | size %}      
+{% for node in site.pages %}
+    {% if node.url contains page.url %}
+        {% if node.title != page.title %}
+            <ul class='mbl_list'>
+            {% assign node_url_parts = node.url | split: '/' %}
+            {% assign node_url_parts_size = node_url_parts | size %}
+            {% assign filename = node_url_parts | last %}
+            {% if (url_parts_size | plus:'1') == node_url_parts_size  %}
+                <li><a href='{{node.url}}'>{{node.title}}</a></li>
+            {% endif %}
+            </ul>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</p>

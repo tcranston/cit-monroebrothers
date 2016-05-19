@@ -27,54 +27,66 @@
     </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse centered-pills" id="bs-example-navbar-collapse-1">
-          <ul class="nav nav-pills">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">History</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Crostat Design</a></li>
-                <li><a href="#">New Applications</a></li>
-                <li><a href="#">Process Cooling</a></li>
-                <li><a href="#">Problem Solving</a></li>
-                <li><a href="#">Proposal Writing</a></li>
-                <li><a href="#">Process Control</a></li>
-                <li><a href="#">HAZOP Studies</a></li>
-                <li><a href="#">Training</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Client List<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Air Products and Chemicals Inc.</a></li>
-                <li><a href="#">Air Products PLC</a></li>
-                <li><a href="#">Oxford Instruments Superconductivity Ltd</a></li>
-                <li><a href="#">Oxford Instruments Molecular Biotools Ltd</a></li>
-                <li><a href="#">Sapio S.r.l.</a></li>
-                <li><a href="#">Daresbury Laboratory</a></li>
-                <li><a href="#">Diamond Light Source Ltd</a></li>
-                <li><a href="#">Pacific Northwest National Laboratory</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Collaborations<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Severn Science Ltd</a></li>
-                <li><a href="#">Blackhall Engineering Ltd </a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Case Studies<span class="caret"></span></a>
-              <ul class="dropdown-menu">
-                <li><a href="#">Pacific Northwest National Laboratory</a></li>
-                <li><a href="#">Daresbury Laboratory Wiggler Repairs</a></li>
-                <li><a href="#">Air Products PLC & EVC</a></li>
-                <li><a href="#">AP HTSC Cable Cooling</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Contact</a></li>
-                               
+        <ul  class="nav nav-pills">
+          {% for item in site.main_menu %}
+            {% assign base_url = '/'  %}
+            {% assign page_url = base_url | (append: item | downcase | replace: ' ','_') %}
+            {% assign url_parts = page_url | split: '/' %}
+            {% assign url_parts_size = url_parts | size %} 
+
+            {% if item == 'Home' %}
+              <li 
+                {% if page.url == '/' %}
+                     class="active" 
+                {% endif %}
+                ><a href='/'>{{ item }}</a></li>
+            {% else  %} 
+
+                {% assign level_count = 0  %}
+                {% for node in site.pages %}
+                    {% if node.url contains page_url %}
+                        {% assign level_count = level_count | plus: 1 %}
+                    {% endif %}
+                {% endfor %}
+
+                {% if level_count > 1 %}
+                    <li class="dropdown 
+                    {% if page.url contains (page_url | append: '/') %}
+                     active
+                    {% endif %}
+                    "><a href='/{{ item | downcase  | replace: ' ', '_' }}' class="dropdown-toggle"  role="button" aria-haspopup="true" aria-expanded="false">
+                        {{ item }}
+                        <span class="caret"></span>
+                    </a>
+                    {% for node in site.pages %}
+                        {% if node.url contains page_url %}
+                            {% if node.title != item %}
+                                <ul  class="dropdown-menu">
+                                    {% assign node_url_parts = node.url | split: '/' %}
+                                    {% assign node_url_parts_size = node_url_parts | size %}
+                                    {% assign filename = node_url_parts | last %}
+                                    {% if (url_parts_size | plus:'1') == node_url_parts_size  %}
+                                    <li><a href='{{node.url}}'>{{node.title}}</a></li>
+                                    {% endif %}
+                                </ul>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                {% else  %}
+                     <li 
+                    {% if page.url contains (page_url | append: '/') %}
+                     class="active"
+                    {% endif %}
+                        {% if page.url == page_url %}
+                         class="active"
+                        {% endif %}
+                     ><a href='/{{ item | downcase | replace: ' ', '_' }}'>{{ item }}</a></li>
+                {% endif %}
+            {% endif %}
+          {% endfor %}
           </ul>
+
+        
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
 </nav>
