@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<div class="row">
+    <div class="col-sm-12">
+        <h1>{{ page.title }}</h1>
+
+        {{ content }}
+
+        {% if page.image_gallery %}
+            <hr>
+            {% if page.image_gallery.size > 2 %}
+                {% include mbl_partial_gallery_multiple_image.html %}
+            {% elsif page.image_gallery.size > 1 %}
+                {% include mbl_partial_gallery_double_image.html %}
+            {% else %}
+                {% include mbl_partial_gallery_single_image.html %}
+            {% endif %}
+        {% endif %}
+    	<div class="clearfix"></div>
+    </div>
+</div>
+
+<!-- End of row -->

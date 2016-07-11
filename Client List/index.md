@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: index_page
 title: Client List
 permalink: /client_list/
 ---
