@@ -4,7 +4,22 @@ title: Contact
 permalink: /contact/
 ---
 
-The company can apply analytical techniques to quantify the technical issues and design skills to create a working solution, delivering the work as engineering drawings, documented design and formal presentations.
+| Monroe Brothers Ltd,
+| P.O.Box 12,
+| Moreton-in-Marsh. 
+| GL56 9YX.
+| United Kingdom
 
-If we can help your business then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
+|
+| Tel:	+44 (0)1386 701777
+| Fax:	+44 (0)1386 701888
+| Email: cmonroe@monroebrothers.co.uk
+
+|
+| Company No:	3293397
+| Vat No:	693 6021 27
+| Directors
+| Charles Monroe CEng, FIMechE, BA (hons)
+| Alexia Monroe BA (hons)
+
 
