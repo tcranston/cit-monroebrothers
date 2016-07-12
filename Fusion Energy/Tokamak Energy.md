@@ -1,7 +1,7 @@
 ---
 layout: standard_page
 title: Tokamak Energy
-permalink: /Fusion_Energy/Tokamak_Energy/
+permalink: /fusion_energy/Tokamak_Energy/
 ---
 
 

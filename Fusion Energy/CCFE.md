@@ -1,7 +1,7 @@
 ---
 layout: standard_page
 title: CCFE
-permalink: /Fusion_Energy/CCFE/
+permalink: /fusion_energy/CCFE/
 ---
 
 
