@@ -1,5 +1,5 @@
 ---
-layout: index_page
+layout: index
 title: Case Studies
 permalink: /case_studies/
 ---
