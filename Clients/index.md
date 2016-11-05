@@ -1,16 +1,16 @@
 ---
-layout: index_page
+layout: standard_page
 title: Client List
 permalink: /clients/
 ---
 
 Our clients are listed below.
 
-Air Products PLC
+* Air Products PLC
 
-Air Products and Chemicals Inc, Pennsylvania, USA
+* Air Products and Chemicals Inc, Pennsylvania, USA
 
-Oxford Instruments Superconductivity Ltd
+* Oxford Instruments Superconductivity Ltd
 
 Oxford Instruments North America Inc, Boston, USA
 Sapio Srl, MOnza, Italy
