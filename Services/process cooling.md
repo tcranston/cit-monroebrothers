@@ -4,7 +4,8 @@ title: Process Cooling
 permalink: /services/process_cooling/
 ---
 
+Monroe Brothers Ltd can design process cooling systems whether this involves 300 kW at -120°C for cooling of a reaction process, 700 W of cooling at 4.5 K for superconducting RF cavities using a helium liquefier or 100 mW at 1.2 K for specialist spectroscopy experiments.  We have the experience for dimensioning the valves pipelines and heat exchangers for two phase systems using helium and nitrogen. we can also specify the process control system to achieve a stable operation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis tempus magna. Aenean quis tristique sem. Integer aliquet posuere ex, at pretium lacus rhoncus ut. Ut condimentum pharetra accumsan. Phasellus viverra accumsan leo, in mattis lorem dapibus et. Donec eu ligula sit amet nibh eleifend vestibulum. Curabitur tortor nisi, sagittis consectetur metus in, condimentum vehicula justo. Nulla semper dolor leo, vel facilisis leo aliquam ac. Praesent a luctus massa, quis porta elit. Pellentesque imperdiet congue enim id laoreet.
+The clients for these applications have included a number of synchrotrons using superconducting RF cavities (Diamond Light Source Ltd, Daresbury Laboratory, Cockcroft Institute, Brookhaven National Laboratory, Canadian Light Source Inc), Oxford Instruments for high resolution NMR spectroscopy at 2.2 K, Air Products for process cooling of pollution abatement systems or reactions cooling systems and Culham Centre for Fusion Energy for cooling of cryopumps in a tokamak experiment.
 
-Nulla iaculis dui a eros sodales malesuada. Integer at diam augue. Nulla tempus orci at elit mattis vehicula. Praesent et orci pulvinar, dictum turpis vel, tempus arcu. Quisque ac hendrerit nisl. Sed commodo dui magna, eget fringilla mi molestie sed. Nam suscipit interdum magna a aliquam. Phasellus vestibulum nunc nisl, vel fermentum velit accumsan et. Quisque pharetra dolor mi, ac mattis neque interdum ut.
+If we can help your business then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)

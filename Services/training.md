@@ -4,7 +4,24 @@ title: Training
 permalink: /services/training/
 ---
 
+With thirty years of experience in designing and operating cryogenic systems, Monroe Brothers Ltd can provide lectures in cryogenics.  The lectures are delivered as PowerPoint slides along with a 130 page printed manual.  The manual can be read and studied in isolation but is used in conjunction with the PowerPoint slides which make reference to the section and page number.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis tempus magna. Aenean quis tristique sem. Integer aliquet posuere ex, at pretium lacus rhoncus ut. Ut condimentum pharetra accumsan. Phasellus viverra accumsan leo, in mattis lorem dapibus et. Donec eu ligula sit amet nibh eleifend vestibulum. Curabitur tortor nisi, sagittis consectetur metus in, condimentum vehicula justo. Nulla semper dolor leo, vel facilisis leo aliquam ac. Praesent a luctus massa, quis porta elit. Pellentesque imperdiet congue enim id laoreet.
+A standard two day training course includes the following modules:
+* Properties of cryogens
+* Cryostat design - Heat loads
+* Cryostat design - Mechanical
+* Current leads
+* Safety & relief devices
+* System cooling - Bulk cryogens
+* System cooling - Closed loop systems
+* System cooling - Cryocoolers
+* Cryogenic pipelines and valves
+* Helium operation below 4 K
+* Sources of information
 
-Nulla iaculis dui a eros sodales malesuada. Integer at diam augue. Nulla tempus orci at elit mattis vehicula. Praesent et orci pulvinar, dictum turpis vel, tempus arcu. Quisque ac hendrerit nisl. Sed commodo dui magna, eget fringilla mi molestie sed. Nam suscipit interdum magna a aliquam. Phasellus vestibulum nunc nisl, vel fermentum velit accumsan et. Quisque pharetra dolor mi, ac mattis neque interdum ut.
+A course can be tailored to meet the requirements of a particular organisation.
+
+Course have been given at Diamond Light Source Ltd, MEDSI conference in Shanghai, Pacific Northwest National Laboratory in USA, Brookhaven National Laboratory USA, Daresbury Laboratory, Consigliio Nazionale delle Ricerche Italy, Air Prooducts PLC and others.
+
+If we can help you with your training requirements then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
+

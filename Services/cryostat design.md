@@ -8,7 +8,7 @@ A cryostat is a chamber to operate at low temperatures for the purposes of runni
 
 Monroe Brothers Ltd has extensive experience of designing cryostats as listed below.
 
-* A low heat loss cryostat for an NMR magnet which required filling with 200litres of liquid helium only once per year.
+* A low heat loss cryostat for an NMR magnet which required filling with 200 litres of liquid helium only once per year.
 
 * A cryogen free cryostat for the TF coils of a small tokamak operating at 30 K and cooled by a Sumitomo cryocooler.
 
