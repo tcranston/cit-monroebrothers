@@ -4,8 +4,18 @@ title: Cryostat Design
 permalink: /services/cryostat_design/
 ---
 
+A cryostat is a chamber to operate at low temperatures for the purposes of running an experiment or operating equipment.  It can be cooled continuously in a closed loop from an external refrigerator, by a cryocooler built into it or by the supply of cryogens which slowly boil away and thus maintain a low temperature.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis tempus magna. Aenean quis tristique sem. Integer aliquet posuere ex, at pretium lacus rhoncus ut. Ut condimentum pharetra accumsan. Phasellus viverra accumsan leo, in mattis lorem dapibus et. Donec eu ligula sit amet nibh eleifend vestibulum. Curabitur tortor nisi, sagittis consectetur metus in, condimentum vehicula justo. Nulla semper dolor leo, vel facilisis leo aliquam ac. Praesent a luctus massa, quis porta elit. Pellentesque imperdiet congue enim id laoreet.
+Monroe Brothers Ltd has extensive experience of designing cryostats as listed below.
 
-Nulla iaculis dui a eros sodales malesuada. Integer at diam augue. Nulla tempus orci at elit mattis vehicula. Praesent et orci pulvinar, dictum turpis vel, tempus arcu. Quisque ac hendrerit nisl. Sed commodo dui magna, eget fringilla mi molestie sed. Nam suscipit interdum magna a aliquam. Phasellus vestibulum nunc nisl, vel fermentum velit accumsan et. Quisque pharetra dolor mi, ac mattis neque interdum ut.
+* A low heat loss cryostat for an NMR magnet which required filling with 200litres of liquid helium only once per year.
 
+* A cryogen free cryostat for the TF coils of a small tokamak operating at 30 K and cooled by a Sumitomo cryocooler.
+
+* A large cryostat for a 900 MHz NMR magnet providing stable operation at 2.3 K for the superconducting magnet.
+
+* The cryostats for liquid helium superconducting RF cavities which are cooled from a lqiud helium refrigerator.
+
+* Liquid nitrogen cooled cryostats for radio telescope detectors.
+
+If we can help your business then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)

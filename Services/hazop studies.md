@@ -4,7 +4,8 @@ title: HAZOP Studies
 permalink: /services/hazop_studies/
 ---
 
+A HAZOP study undertales a HAZard and OPerability study of system.  The first priority is the safety of the system by eliminating hazards.  At the same time the study will identify and mitigate against operability issues.  A HAZOP study is best undertaken when the design is complete and before the manufacture has started; at this stage the design issues can be identified clearly whilst the cost of mitigations is at its lowest.  When managed correctly the HAZOP study is not an overhead cost in order to satisfy safety requirement but a useful tool to deliver a workable system as well as a safe system.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sagittis tempus magna. Aenean quis tristique sem. Integer aliquet posuere ex, at pretium lacus rhoncus ut. Ut condimentum pharetra accumsan. Phasellus viverra accumsan leo, in mattis lorem dapibus et. Donec eu ligula sit amet nibh eleifend vestibulum. Curabitur tortor nisi, sagittis consectetur metus in, condimentum vehicula justo. Nulla semper dolor leo, vel facilisis leo aliquam ac. Praesent a luctus massa, quis porta elit. Pellentesque imperdiet congue enim id laoreet.
+Monroe Brothers Ltd has the experience to chair a HAZOP study for process systems and equipment in order to deliver a safe and workable system.  These have been undertaken for NMR spectroscopy systems, cryogenic systems operating superconducting RF cavities, liquid nitrogen fill systems for biological storage and closed loop helium gas circulation systems.
 
-Nulla iaculis dui a eros sodales malesuada. Integer at diam augue. Nulla tempus orci at elit mattis vehicula. Praesent et orci pulvinar, dictum turpis vel, tempus arcu. Quisque ac hendrerit nisl. Sed commodo dui magna, eget fringilla mi molestie sed. Nam suscipit interdum magna a aliquam. Phasellus vestibulum nunc nisl, vel fermentum velit accumsan et. Quisque pharetra dolor mi, ac mattis neque interdum ut.
+If we can help your business then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
