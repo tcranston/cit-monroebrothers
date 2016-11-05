@@ -4,7 +4,7 @@ title: Training
 permalink: /services/training/
 ---
 
-With thirty years of experience in designing and operating cryogenic systems, Monroe Brothers Ltd can provide lectures in cryogenics.  The lectures are delivered as PowerPoint slides along with a 130 page printed manual.  The manual can be read and studied in isolation but is used in conjunction with the PowerPoint slides which make reference to the section and page number.
+With thirty years of experience in designing and operating cryogenic systems, Monroe Brothers Ltd can provide lectures in cryogenics.  The lectures are delivered as PowerPoint slides along with a 130 page printed manual.  The manual can be read and studied in isolation but is used in conjunction with the PowerPoint slides which make reference to the section and page number in the manual.
 
 A standard two day training course includes the following modules:
 * Properties of cryogens
@@ -21,7 +21,7 @@ A standard two day training course includes the following modules:
 
 A course can be tailored to meet the requirements of a particular organisation.
 
-Course have been given at Diamond Light Source Ltd, MEDSI conference in Shanghai, Pacific Northwest National Laboratory in USA, Brookhaven National Laboratory USA, Daresbury Laboratory, Consigliio Nazionale delle Ricerche Italy, Air Prooducts PLC and an open course at Wurzburg Germany primarily for professional staf at the national research laboratories.
+Course have been given at Diamond Light Source Ltd, the MEDSI conference in Shanghai, Pacific Northwest National Laboratory in USA, Brookhaven National Laboratory USA, Daresbury Laboratory, Consiglio Nazionale delle Ricerche Italy, Air Prooducts PLC and an open course at Wurzburg Germany inviting professional engineers and scientists at the national research laboratories.
 
 If we can help you with your training requirements then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
 
