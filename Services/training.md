@@ -21,7 +21,7 @@ A standard two day training course includes the following modules:
 
 A course can be tailored to meet the requirements of a particular organisation.
 
-Course have been given at Diamond Light Source Ltd, MEDSI conference in Shanghai, Pacific Northwest National Laboratory in USA, Brookhaven National Laboratory USA, Daresbury Laboratory, Consigliio Nazionale delle Ricerche Italy, Air Prooducts PLC and others.
+Course have been given at Diamond Light Source Ltd, MEDSI conference in Shanghai, Pacific Northwest National Laboratory in USA, Brookhaven National Laboratory USA, Daresbury Laboratory, Consigliio Nazionale delle Ricerche Italy, Air Prooducts PLC and an open course at Wurzburg Germany primarily for professional staf at the national research laboratories.
 
 If we can help you with your training requirements then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
 
