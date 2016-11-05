@@ -1,7 +1,7 @@
 ---
 layout: index_page
 title: Client List
-permalink: /client_list/
+permalink: /clients/
 ---
 
 Our clients are listed below.
@@ -9,6 +9,7 @@ Our clients are listed below.
 Air Products PLC
 Air Products and Chemicals Inc, Pennsylvania, USA
 Oxford Instruments Superconductivity Ltd
+Oxford Instruments North America Inc, Boston, USA
 Sapio Srl, MOnza, Italy
 Daresbury Laboratory, Cheshire, UK
 Culham Centre for Fusion Energy
@@ -39,7 +40,6 @@ Alstom Power Sweden AB
 Oxford Biosensors Ltd
 Merit Process Engineering Ltd
 CLIK Knowledge Transfer
-Oxford Instruments North America Inc, Boston, USA
 Rutherford Appleton Laboratory
 A S Scientific Products Ltd
 
