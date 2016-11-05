@@ -1,7 +1,7 @@
 ---
 layout: index_page
-title: Manufacturing
-permalink: /manufacturing/
+title: Services
+permalink: /services/
 ---
 
 The company can apply analytical techniques to quantify the technical issues and design skills to create a working solution, delivering the work as engineering drawings, documented design and formal presentations.
