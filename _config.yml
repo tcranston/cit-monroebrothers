@@ -9,11 +9,11 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 main_menu:
   - Home
   - History
-  - Services
+  - Manufacturing
+  - Energy
+  - Research
   - Client List
-  - Fusion Energy
-  - Collaborations
-  - Case Studies
+  - Tasks
   - Contact
 
 
