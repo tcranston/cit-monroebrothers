@@ -9,12 +9,9 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 main_menu:
   - Home
   - History
-  - Manufacturing
-  - Energy
-  - Research
+  - Services
   - Clients
   - Tasks
-  - Services
   - Contact
 
 
