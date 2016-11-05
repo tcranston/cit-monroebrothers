@@ -6,20 +6,22 @@ permalink: /clients/
 
 Our clients are listed below.
 
+* Tokamak Energy Ltd
+* Culham Centre for Fusion Energy
+* Clean Power Hydrogen Ltd
 * Air Products PLC
 * Air Products and Chemicals Inc, Pennsylvania, USA
 * Oxford Instruments Superconductivity Ltd
 * Oxford Instruments North America Inc, Boston, USA
 * Sapio Srl, Monza, Italy
 * Daresbury Laboratory, Cheshire, UK
-* Culham Centre for Fusion Energy
 * Pacific Northwest National Laboratory, Washington State, USA
-* Brookhaven National Laboratory, New York State, USA
+* NSLS-II, Brookhaven National Laboratory, New York State, USA
+* Canadian Light Source Inc., Saskatoon, Canada
+* Diamond Light Source Ltd
 * Babcock Noell Gmbh, Wurzburg, Germany
 * Sigmaphi, Vannes, France
 * FMB Oxford Ltd
-* Diamond Light Source Ltd
-* Tokamak Energy Ltd
 * Green Resource Engineering Ltd
 * Mechatech Systems Ltd
 * Severn Science Ltd
@@ -27,11 +29,9 @@ Our clients are listed below.
 * Vision Electric Super Conductors GmbH, Kaiserslautern, Germnay
 * Peco Controls - Europe Ltd
 * Wessington Cryogenics Ltd
-* Canadian Light Source Inc., Saskatoon, Canada
 * ISIS laboratory, Oxfordshire
 * Energy Technologies Institute LLP
 * Deep Sea Recovery Ltd
-* Clean Power Hydrogen Ltd
 * Boiswood LLP
 * ICE Oxford Ltd
 * CVT Ltd
