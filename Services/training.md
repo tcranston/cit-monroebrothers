@@ -11,7 +11,7 @@ A standard two day training course includes the following modules:
 * Cryostat design - Heat loads
 * Cryostat design - Mechanical
 * Current leads
-* Safety & relief devices
+* Safety, pressure venting & relief devices
 * System cooling - Bulk cryogens
 * System cooling - Closed loop systems
 * System cooling - Cryocoolers
