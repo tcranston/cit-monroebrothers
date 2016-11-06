@@ -4,7 +4,7 @@ title: Training
 permalink: /services/training/
 ---
 
-With thirty years of experience in designing and operating cryogenic systems, Monroe Brothers Ltd can provide lectures in cryogenics.  The lectures are delivered as PowerPoint slides along with a 130 page printed manual.  The manual can be read and studied in isolation but is used in conjunction with the PowerPoint slides which make reference to the section and page number in the manual.
+With over thirty years of experience in designing and operating cryogenic systems, Monroe Brothers Ltd can provide lectures in cryogenics.  The lectures are delivered as PowerPoint slides along with a 130 page printed manual.  The manual can be read and studied in isolation but is used in conjunction with the PowerPoint slides which make reference to the section and page number in the manual.
 
 A standard two day training course includes the following modules:
 * Properties of cryogens

@@ -5,6 +5,7 @@ description: Monroe Brothers Ltd  provide consultancy in the field of low temper
 keywords: low temperature, engineering, liquid nitrogen, liquid helium, consultancy, industrial, scientific, applications, British Cryogenics Council
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
+encoding: UTF-8
 
 main_menu:
   - Home
