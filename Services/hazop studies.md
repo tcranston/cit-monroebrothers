@@ -1,4 +1,4 @@
----
+﻿---
 layout: standard_page
 title: HAZOP Studies
 permalink: /services/hazop_studies/
