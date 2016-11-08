@@ -1,4 +1,4 @@
-﻿---
+---
 layout: standard_page
 title: Training
 permalink: /services/training/
