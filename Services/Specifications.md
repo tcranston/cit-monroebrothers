@@ -1,7 +1,7 @@
 ---
 layout: standard_page
 title: Specifications
-permalink: /services/proposal_writing/
+permalink: /services/specifications/
 ---
 
 We can prepare technical specifications for the supply of equipment and systems.
