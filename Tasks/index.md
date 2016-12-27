@@ -33,6 +33,7 @@ A simple list of tasks undertaken is given below in that it might prompt a solut
 25.   Subcooled liquid nitrogen cooling systems
 26.   Pharmaceutical reaction cooling systems
 27.   Liquid nitrogen dosing systems
+28.   Distributed cryogenic cooling for a radio telescope
 
 
 If we can help your business then please contact us: [cmonroe@monroebrothers.co.uk](cmonroe@monroebrothers.co.uk)
