@@ -1,4 +1,4 @@
-﻿---
+---
 layout: standard_page
 title: Process Cooling
 permalink: /services/process_cooling/
