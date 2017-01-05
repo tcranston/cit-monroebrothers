@@ -1,4 +1,4 @@
-﻿---
+---
 layout: standard_page
 title: New Applications
 permalink: /services/new_applications/
