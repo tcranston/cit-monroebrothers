@@ -1,4 +1,4 @@
-﻿---
+---
 layout: standard_page
 title: Process Control
 permalink: /services/process_control/
